@@ -1,0 +1,52 @@
+.div1{
+  height: 30px;
+  width: 90%;
+  padding: 0;
+  margin: 0;
+  background-color: grey;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.table1{
+  text-align: left;
+  font-family: Arial;
+  font-size: 14pt;
+  width: 100%;
+  color: white;
+  cellspacing: 0px;
+  cellpadding: 10px;
+  border-right: 1px;
+  border-right-color: black;
+}
+.div2{
+  height: 400px;
+  width: 90%;
+  overflow: auto;
+  overflow-x: hidden;
+  border-bottom-left-radius: 5px;
+
+}
+.table2{
+  text-align: left;
+  font-family: Arial;
+  font-size: 11pt;
+  width: 100%;
+  height: 100%;
+  color: black;
+  cellspacing: 0px;
+  cellpadding: 0px;
+  background-color: white;
+  border: 10px;
+  
+}
+td {
+  border: 1px;
+  border-right: 1px;
+  border-color: lightgrey;
+}
+body{
+  background-color: lightgrey;
+}
+h1{
+  font-family: Arial;
+}
